@@ -1,0 +1,1 @@
+This is an ongoing project focused on building a deep learning model to classify body parts from X-ray images. Automating this task helps ensure correct image labeling in medical systems, which enables cleaner datasets and deployment of reliable AI models in clinical practice. The concept and dataset are adapted from a Kaggle competition.
